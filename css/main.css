@@ -4,33 +4,56 @@ body {
 h1 {
   font-size: 30px;
   line-height: 40px;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-left: 10px;
   padding-right: 10px;
-  width: 500px;
+  width: 980px;
   max-width: 100%;
   margin: auto;
   text-align: center;
 }
 h2 {
-  font-size: 20px;
-  line-height: 30px;
-  padding-top: 10px;
+  font-size: 25px;
+  line-height: 35px;
+  padding-top: 20px;
   padding-left: 10px;
   padding-right: 10px;
-  width: 500px;
+  width: 980px;
   max-width: 100%;
   margin: auto;
+  text-align: center;
+  color: #782121;
+  text-shadow: 2px 2px 2px #aaa;
 }
 p {
-  font-size: 20px;
-  line-height: 30px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  font-size: 16px;
+  line-height: 26px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   padding-left: 10px;
   padding-right: 10px;
-  width: 500px;
+  width: 980px;
   max-width: 100%;
   margin: auto;
   text-align: justify;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  display: block;
+  border-radius: 150px;
+  box-shadow: 5px 5px 5px #aaa;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.heading-section {
+  background-color: #782121;
+  padding: 100px;
+}
+
+.heading {
+  color: white;
 }
