@@ -38,7 +38,7 @@ p {
   text-align: justify;
 }
 
-img {
+.profile-image {
   margin-left: auto;
   margin-right: auto;
   width: 300px;
@@ -55,5 +55,27 @@ img {
 }
 
 .heading {
+  color: white;
+}
+
+.personality-test-image{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 800px;
+  max-width: 100%;
+  display: block;
+}
+
+.footer {
+  background-color: ccc;
+  padding: 100px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.footer-text {
+  text-align: center;
   color: white;
 }
